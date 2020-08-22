@@ -1,4 +1,4 @@
-# This is A My Command 
+#This Is My Command
 
 
 
@@ -15,8 +15,8 @@
 
 * pkg install git
 
-* git clone http://github.com/SmartBoyEasin/SmartBoy
+* git clone http://github.com/Ariyan-Abir-Siam/Ariyan-abir-Siam 
 
-* cd SmartBoy
+* cd AriyanAbirSiam
 
-* python2 SmartBoy.py
+* python2 AriyanAbirSiam.py
